@@ -5,10 +5,17 @@ number = 0
 
 repeat = input("Please insert the total ammount of the repetition: ");
 
-while total != int(repeat):
+while int(aux1) < int(repeat):
+	
 	total = aux1 + aux2
 	aux2 = aux1
 	aux1 = total
-	number += 1
+	
+	#print(aux1)
+	#print(aux2)
+	#print(total)
+
+	if total % 2 == 0:
+		number += total
 
 print(number)
