@@ -1,5 +1,7 @@
 # ProjectEuler
 Solutions to the problems on ProjectEuler  
+
+![My Profile](https://projecteuler.net/profile/ElliotFSociety.png)  
   
 P1:233168  
 P2:4613732  
